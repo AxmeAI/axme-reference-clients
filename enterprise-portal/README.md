@@ -6,13 +6,18 @@ This folder tracks the reference client contract for enterprise admin flows in T
 
 - organization/workspace bootstrap and administration
 - access-request review and approval workflow
+- role-aware portal navigation and action gating
+- personal cabinet self-service overview
 - quota and usage visibility (`summary`, `timeseries`, `rollups`)
 - service-account and credential-key lifecycle operations
 
 ## API Surface
 
+- `GET /v1/portal/enterprise/navigation`
 - `GET /v1/portal/enterprise/overview`
 - `GET /v1/portal/enterprise/access-requests`
+- `GET /v1/portal/enterprise/request-queue`
+- `GET /v1/portal/personal/overview`
 - `POST /v1/organizations`
 - `POST /v1/organizations/{org_id}/workspaces`
 - `POST /v1/access-requests/{access_request_id}/review`
