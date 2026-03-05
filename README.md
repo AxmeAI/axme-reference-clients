@@ -3,7 +3,7 @@
 **Reference client implementations for AXME Cloud surfaces.** This repository contains full-featured reference applications — not toy examples, but real working clients that demonstrate enterprise portal workflows, approval flows, and admin operations against the AXME platform.
 
 > **Alpha** · Reference clients are being built alongside the platform. Bootstrap phase in progress.  
-> Access and feedback → [hello@axme.ai](mailto:hello@axme.ai)
+> Alpha access: https://cloud.axme.ai/alpha · Contact and suggestions: [hello@axme.ai](mailto:hello@axme.ai)
 
 ---
 
@@ -96,6 +96,6 @@ See [`CONTENT_ROADMAP_ALPHA.md`](CONTENT_ROADMAP_ALPHA.md) for the detailed plan
 ## Contributing & Contact
 
 - Reference client proposals: open an issue in this repository
-- Alpha program access and feedback: [hello@axme.ai](mailto:hello@axme.ai)
+- Alpha access: https://cloud.axme.ai/alpha · Contact and suggestions: [hello@axme.ai](mailto:hello@axme.ai)
 - Security disclosures: see [SECURITY.md](SECURITY.md)
 - Contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md)
