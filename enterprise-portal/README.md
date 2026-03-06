@@ -2,6 +2,14 @@
 
 This folder tracks the reference client contract for enterprise admin flows in Track F.
 
+## Alpha Status
+
+> AXME is currently in Alpha.  
+> Protocol and API surface are stabilizing and may change.  
+> Usage limits apply.  
+> Not recommended for production workloads yet.  
+> We welcome early adopters and protocol feedback.
+
 ## Scope
 
 - organization/workspace bootstrap and administration
